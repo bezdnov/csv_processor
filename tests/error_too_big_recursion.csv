@@ -1,0 +1,4 @@
+,col_first,col_second,col_third,col_fourth
+1,1,2,3,4
+2,10,20,30,40
+3,col_second2+col_second3,col_third2+col_third3,col_fourth2+col_fourth3,10/2
